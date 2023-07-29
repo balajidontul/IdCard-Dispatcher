@@ -28,7 +28,7 @@ The **IdCard-Dispatcher** project is a web application built with Spring Boot, T
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/IdCard-Dispatcher.git
+   git clone https://github.com/balajidontul/IdCard-Dispatcher.git
    cd IdCard-Dispatcher
 
 ### Usage
