@@ -49,13 +49,34 @@ Preview of the generated ID card before printing or saving as PDF.
 Easy-to-use interface for seamless interaction.
 
 ### Technologies Used
-Spring Boot (version [latest version])
-Thymeleaf (version [latest version])
-iTextPDF (version [latest version])
-Maven (version [latest version])
-Java JDK (version 11)
-Contributing
-Contributions are welcome! Please follow these steps:
+# Latest Versions of Software Components
+
+Here are the sources to find the latest versions of each software component:
+
+## Spring Boot
+- Official Spring Boot Website: [spring.io/projects/spring-boot](https://spring.io/projects/spring-boot)
+- Maven Central Repository: [search.maven.org](https://search.maven.org/)
+- GitHub Repository: [github.com/spring-projects/spring-boot](https://github.com/spring-projects/spring-boot)
+
+## Thymeleaf
+- Thymeleaf Website: [www.thymeleaf.org](https://www.thymeleaf.org/)
+- Maven Central Repository: [search.maven.org](https://search.maven.org/)
+
+## iTextPDF
+- iText Website: [itextpdf.com](https://itextpdf.com/)
+- Maven Central Repository: [search.maven.org](https://search.maven.org/)
+
+## Maven
+- Apache Maven Website: [maven.apache.org](https://maven.apache.org/)
+- Apache Maven Central Repository: [search.maven.org](https://search.maven.org/)
+
+## Java JDK
+- Official Oracle Website: [www.oracle.com/java/technologies/javase-downloads.html](https://www.oracle.com/java/technologies/javase-downloads.html)
+- OpenJDK Website: [openjdk.java.net](https://openjdk.java.net/)
+
+By referring to these sources, you can ensure you are using the most recent and compatible versions of these software components in your projects. Always keep an eye on updates to take advantage of new features, bug fixes, and security improvements.
+
+
 
 ### Fork the repository.
 Create a new branch: git checkout -b new-feature
