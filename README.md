@@ -75,13 +75,14 @@ By referring to these sources, you can ensure you are using the most recent and 
 
 
 
-### Fork the repository.
-Create a new branch: git checkout -b new-feature
-Make your changes and commit them: git commit -m "Add some feature"
-Push to the branch: git push origin new-feature
-Submit a pull request.
-License
-This project is licensed under the MIT License.
+### contributing.
+- Fork the repository.
+- Create a new branch: `git checkout -b new-feature`
+- Make your changes and commit them: `git commit -m "Add some feature"`
+- Push to the branch: `git push origin new-feature`
+- Submit a pull request.
+- License: This project is licensed under the MIT License.
+
 
 ### Acknowledgments
 Spring Boot and Thymeleaf for providing an excellent framework for web application development.
