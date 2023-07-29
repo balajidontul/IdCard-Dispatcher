@@ -58,7 +58,6 @@ The **IdCard-Dispatcher** project is a web application built with Spring Boot, T
 
 - Printing and Saving as PDF:
   - If users are satisfied with the preview, they can proceed to either print the ID card or save it as a PDF.
-  - The application provides dedicated buttons for both printing and saving the ID card as a PDF, ensuring a seamless user experience.
 
 - Easy-to-Use Interface:
   - The web application features an intuitive and easy-to-use interface, making it straightforward for users to interact with the form and generate their ID cards.
