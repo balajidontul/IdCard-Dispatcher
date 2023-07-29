@@ -40,10 +40,32 @@ The **IdCard-Dispatcher** project is a web application built with Spring Boot, T
 
 
 ### Features
-User-friendly form for entering ID card details.
-Dynamic generation of ID cards with the provided information.
-Preview of the generated ID card before printing or saving as PDF.
-Easy-to-use interface for seamless interaction.
+- User-friendly Form for Entering ID Card Details:
+  - The web application provides a user-friendly form where users can enter their details for the ID card.
+  - The form includes fields for entering the following information:
+    - Name
+    - Date of Birth
+    - Address
+    - Employee ID
+
+- Dynamic Generation of ID Cards:
+  - After users fill in their details and submit the form, the application dynamically generates an ID card based on the provided information.
+  - The generated ID card includes the user's name, date of birth, address, and employee ID in a visually appealing design.
+
+- Preview Functionality:
+  - Before finalizing the ID card, users have the option to preview the generated ID card on the screen.
+  - The preview displays the ID card exactly as it would appear when printed or saved as a PDF.
+
+- Printing and Saving as PDF:
+  - If users are satisfied with the preview, they can proceed to either print the ID card or save it as a PDF.
+  - The application provides dedicated buttons for both printing and saving the ID card as a PDF, ensuring a seamless user experience.
+
+- Easy-to-Use Interface:
+  - The web application features an intuitive and easy-to-use interface, making it straightforward for users to interact with the form and generate their ID cards.
+  - The design and layout of the application are optimized for smooth navigation and effortless data entry.
+
+By following these steps, users can effortlessly enter their details, preview the ID card, and either print it or save it as a PDF, all within an enjoyable user experience.
+
 
 ### Technologies Used
 # Latest Versions of Software Components
