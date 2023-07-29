@@ -32,15 +32,12 @@ The **IdCard-Dispatcher** project is a web application built with Spring Boot, T
    cd IdCard-Dispatcher
 
 ### Usage
-Open your web browser and go to http://localhost:8080.
+- Open your web browser and go to http://localhost:8080.
+- You will be presented with a form to fill in your details for the ID card.
+- Enter your name, date of birth, address, and employee ID in the respective fields.
+- Click the "Preview ID Card" button to see a preview of your generated ID card.
+- If you are satisfied with the preview, you can either print the ID card or save it as a PDF by clicking the "Print" or "Save PDF" button, respectively.
 
-You will be presented with a form to fill in your details for the ID card.
-
-Enter your name, date of birth, address, and employee ID in the respective fields.
-
-Click the "Preview ID Card" button to see a preview of your generated ID card.
-
-If you are satisfied with the preview, you can either print the ID card or save it as a PDF by clicking the "Print" or "Save PDF" button, respectively.
 
 ### Features
 User-friendly form for entering ID card details.
